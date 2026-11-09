@@ -1,0 +1,13 @@
+{
+  "_comment": "改成本机真实路径；scripts 里的常量对应这些",
+  "memoryRoot": "D:/path/to/记忆库",
+  "l0Dir": "D:/path/to/记忆库/L0",
+  "l1Dir": "D:/path/to/记忆库/L1",
+  "dailyDir": "D:/path/to/记忆库/每日",
+  "examDir": "D:/path/to/记忆库/考试",
+  "pitfallDir": "D:/path/to/记忆库/坑",
+  "archiveRoot": "D:/path/to/记忆库/归档",
+  "logDir": "D:/path/to/日志",
+  "chemFile": "D:/path/to/state/chem.json",
+  "sessionStore": "C:/Users/<you>/AppData/Roaming/dsh-desktop/harness/sessions"
+}

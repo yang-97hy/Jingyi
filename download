@@ -1,7 +1,0 @@
-# 真实记忆库和日志永远不进仓库
-记忆库/
-state/
-logs/
-config.local.json
-*.log
-node_modules/
